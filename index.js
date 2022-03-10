@@ -6,4 +6,3 @@ exports.handler = async (event) => {
     };
     return response;
 };
-
